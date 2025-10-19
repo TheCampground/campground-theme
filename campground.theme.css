@@ -63,9 +63,9 @@
   --text-muted: #a6aca4;
   --text-brand: var(--bg-brand);
   --channels-default: #c1c9bf;
-  --background-mod-normal: var(--bg-brand-40);
+  --background-mod-normal: var(--bg-brand-20);
   --background-mod-subtle: var(--bg-brand-15);
-  --background-mod-strong: var(--bg-brand-20);
+  --background-mod-strong: var(--bg-brand-40);
   --custom-status-bubble-background: #6e6b5d;
   --autocomplete-bg: #47443b80;
   --background-secondary-alt: var(--bg-brand-20);
@@ -550,10 +550,6 @@ div.outerContainer__8a031.fullScreenOnMobile__8a031 > div[data-mana-component="m
     background-color: var(--bg-brand-20);
 }
 
-.root__49fc1.root__49fc1 {
-    /*overflow: hidden;*/
-}
-
 .content__49fc1.templatesList_c04f35 {
     margin-top: 0;
 }
@@ -682,4 +678,13 @@ div[role="dialog"]:has(.messagesPopoutWrap__45690),
 
 .settingCard__1a4ef.active__1a4ef {
     background: var(--background-mod-strong);
+}
+
+.container_a8e786 {
+    background-color: var(--background-mod-normal);
+    border: 1px solid var(--border-normal);
+}
+.wrapperAudio_cf09d8.newMosaicStyle_cf09d8 {
+    background-color: var(--background-mod-normal);
+    border: 1px solid var(--border-normal);
 }
