@@ -14,27 +14,30 @@ Built for **Vencord** and **BetterDiscord**.
 1. Open Discord → **Settings** → **Vencord** tab → **Themes**.
 2. Click **Open Themes Folder**.
 3. Drop the `campground.theme.css` file inside that folder.
-  **Windows path (manual method):**
-  Navigate to `C:\Users\<your_name>\AppData\Roaming\Vencord\themes` and drop the file in there.
+
+**Windows path (manual method):**
+Navigate to `C:\Users\<your_name>\AppData\Roaming\Vencord\themes` and drop the file in there.
 4. Back in Discord, enable **Campground** from the themes list.
 
 ---
 
 ### BetterDiscord
-1. Open Discord → **Settings** → **BetterDiscord** → **Themes**.
+1. Open Discord → **Settings** → **BetterDiscord** tab → **Themes**.
 2. Click **Open Themes Folder**.
 3. Move the `campground.theme.css` file there.
-  **Windows path (manual method):**
-  Navigate to `C:\Users\<your_name>\AppData\Roaming\BetterDiscord\themes` and drop the file in there.
+
+**Windows path (manual method):**
+Navigate to `C:\Users\<your_name>\AppData\Roaming\BetterDiscord\themes` and drop the file in there.
 4. Back in Discord, enable **Campground** from the themes list.
 
 ---
 
 ## ⚠️ Disclaimer
-> **Use at your own risk.**
-> Modifying Discord with third-party clients or themes (including Vencord and BetterDiscord) is **against Discord's Terms of Service**.
-> The Campground Theme and its contributors are **not responsible** for any issues, bans, or account actions that may result from its use.
-> Always back up your data and proceed with caution.
+**Use at your own risk.**
+Modifying Discord with third-party clients or themes (including Vencord and BetterDiscord) is **against Discord's Terms of Service**.
+
+The Campground Theme and its contributors are **not responsible** for any issues, bans, or account actions that may result from its use.
+Always back up your data and proceed with caution.
 
 ---
 
