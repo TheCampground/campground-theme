@@ -536,7 +536,9 @@ div.outerContainer__8a031.fullScreenOnMobile__8a031 > div[data-mana-component="m
     background-color: var(--bg-brand);
 }
 
-.group-spacing-16 .divider__5126c.hasContent__5126c {
+.group-spacing-16 .divider__5126c.hasContent__5126c,
+.isUnread__908e2
+{
     height: 1px;
     background-color: var(--border-normal);
 }
