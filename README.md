@@ -34,7 +34,7 @@ Built for **Vencord** and **BetterDiscord**.
 **Use at your own risk.**
 Modifying Discord with third-party clients or themes (including Vencord and BetterDiscord) is **against Discord's Terms of Service**.
 
-The Campground Theme and its contributors are **not responsible** for any issues, bans, or account actions that may result from its use.
+Campground and its contributors are **not responsible** for any issues, bans, or account actions that may result from its use.
 
 Always back up your data and proceed with caution.
 
