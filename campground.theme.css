@@ -37,6 +37,10 @@
   --bg-brand-80: #E9D37D80;
   --bg-brand-90: #E9D37D90;
   --brand-500: #E9D37D;
+  --brand-400: #E9D37D;
+  --brand-460: #E9D37D50;
+  --brand-560: #E9D37D;
+  --brand-260: #a6aca4;
   --background-code: #2C292480;
   --background-base-low: #5e5a4f;
   --background-base-lower: #3d3b31;
@@ -46,6 +50,7 @@
   --info-warning-foreground: var(--bg-brand-90);
   --border-subtle: var(--bg-brand-15);
   --border-normal: var(--bg-brand-30);
+  --border-strong: var(--bg-brand-70);
   --app-border-frame: var(--border-normal);
   --elevation-low: var(--bg-brand-30);
   --background-surface-high: #2C292480;
@@ -697,4 +702,41 @@ div[role="dialog"]:has(.messagesPopoutWrap__45690),
 .header_d9c882:has(.threadIcon_d9c882)
 {
     background-color: transparent;
+}
+
+.channelTextArea_f75fb0 {
+    transition: all 250ms ease-in-out !important;
+    border: 1px solid var(--border-normal)
+}
+
+.channelTextArea__74017:focus-within {
+    border-color: var(--border-strong);
+}
+
+.addTags__3f6df {
+    transition: all 150ms ease-in-out;
+}
+.addTags__3f6df:not(.disabled__3f6df):hover {
+    background-color: var(--brand-500);
+    filter: brightness(0.9);
+}
+
+.container_c8ffbb {
+    border-left: 1px solid var(--border-normal);
+}
+
+.textBadge__2b1f5 {
+    color: #302F27;
+}
+
+.newChannel__599fa {
+    background-color: var(--bg-brand) !important;
+}
+
+.container_a8e786:not(.playing_a8e786) .playButtonContainer_a8e786 {
+    background: var(--bg-brand) !important;
+}
+
+.container_a8e786:not(.playing_a8e786) .playButtonContainer_a8e786:hover {
+    filter: brightness(0.9);
 }
