@@ -630,7 +630,8 @@ div[role="dialog"]:has(.messagesPopoutWrap__45690),
 .tooltipTop_c36707,
 .tooltipDisablePointerEvents_c36707,
 .tooltip__4e35b,
-.popover_f84418
+.popover_f84418,
+.popout__76f04
 {
     backdrop-filter: blur(16px);
     border: 1px solid var(--border-normal);
@@ -680,11 +681,20 @@ div[role="dialog"]:has(.messagesPopoutWrap__45690),
     background: var(--background-mod-strong);
 }
 
-.container_a8e786 {
+.wrapperAudio_cf09d8.newMosaicStyle_cf09d8,
+.container_a8e786,
+.container__6764b
+{
     background-color: var(--background-mod-normal);
     border: 1px solid var(--border-normal);
 }
-.wrapperAudio_cf09d8.newMosaicStyle_cf09d8 {
-    background-color: var(--background-mod-normal);
-    border: 1px solid var(--border-normal);
+
+.container__6764b:hover {
+    background-color: var(--background-mod-strong) !important;
+}
+
+.container_d9c882:has(.header_d9c882 > .threadIcon_d9c882),
+.header_d9c882:has(.threadIcon_d9c882)
+{
+    background-color: transparent;
 }
